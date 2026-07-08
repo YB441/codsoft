@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Models (large binary files)
+saved_models/
+
+# IDE
+.vscode/
+.idea/
